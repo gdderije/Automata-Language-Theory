@@ -1,2 +1,2 @@
-# Deterministic-Finite-Automata
+# Automata-Language-Theory
 Deterministic Finite Automata
